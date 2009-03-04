@@ -1,0 +1,4 @@
+#name: Then some expected outcome
+# --
+¤Ê¤é¤Ð ${1:some expected outcome}
+$0

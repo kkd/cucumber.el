@@ -1,0 +1,4 @@
+#name: Scenario: Name
+# --
+シナリオ: ${1:Name}
+  $0

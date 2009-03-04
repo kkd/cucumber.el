@@ -1,0 +1,4 @@
+#name: When some action
+# --
+¤â¤· ${1:some action}
+$0

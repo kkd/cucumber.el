@@ -1,0 +1,8 @@
+#name: Feature: Name
+# --
+フィーチャ: ${1:Name}
+  ${2:Role} として
+  ${3:get some business value} をしたい
+  その結果、${4:this sweet new feature}
+
+  $0

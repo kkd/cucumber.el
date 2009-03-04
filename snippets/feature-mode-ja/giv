@@ -1,0 +1,4 @@
+#name: Given a known starting condition
+# --
+Á°Äó ${1:a known starting condition}
+$0
